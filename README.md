@@ -1,22 +1,10 @@
-## Hi there 👋
+## Introduction
 
 <!--
-**sourajitmitraa/sourajitmitraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-echo "# sourajitmitraa" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sourajitmitraa/sourajitmitraa.git
-git push -u origin main
-Here are some ideas to get you started:
+My name is Sourajit Mitra and my origins lie in the urban backdrop of Bengal.
+Currently 19 years old and pursuing my ambitions in the data handling fields as well as a keen interest in CLoud Technology in Jain Deemed-to-be Universiy Bengaluru, I am also an active member in American Football, football as well as the Rowing Teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am not working on anything at the moment but I will soon undertake case studies to further solidify my grasp on the concepts of data analytics. 
+Hoping to be the best version of myself, both in society and in the coding arena.
+Toodles!
 -->
