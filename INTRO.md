@@ -1,4 +1,4 @@
-## Introduction
+## about me
 
 <!--
 My name is Sourajit Mitra and my origins lie in the urban backdrop of Bengal.
